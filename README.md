@@ -41,4 +41,3 @@
 # Author
 #### Youssef Mohammed
 #### Software Engineer
-#### SAP Pioneer Path Candidate
