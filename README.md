@@ -39,5 +39,6 @@
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20Fiori%20Application%20Running.png)
 
 # Author
-#### Youssef Ahmed Mohammed
+#### Youssef Mohammed
 #### Software Engineer
+#### SAP Pioneer Path Candidate
