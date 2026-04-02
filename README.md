@@ -5,11 +5,11 @@
 ## The objective of this project is to create a SAP Fiori application using SAP Business Technology Platform and connect it to an external OData service
 ## The application retrieves product data from the Northwind OData service and displays it using a Fiori List Report interface.
 # Objectives
-### -Create SAP BTP Trial Account
-    -Configure Destination Service
-### -Connect to Northwind OData Service
-### -Build SAP Fiori Application
-### -Deploy and Run Application
+-Create SAP BTP Trial Account
+-Configure Destination Service
+-Connect to Northwind OData Service
+-Build SAP Fiori Application
+-Deploy and Run Application
 # Technologies Used
 ### -SAP Business Technology Platform (BTP)
 ### -SAP Business Application Studio
