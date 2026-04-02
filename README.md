@@ -21,3 +21,17 @@
 ## 1- SAP BTP Setup
 ### This screenshot shows the SAP Business Technology Platform cockpit after creating the trial account. The subaccount and Cloud Foundry environment were successfully created and configured for development.
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20BTP%20Global%20Account.png)
+![Model](https://github.com/youssefmohamed155/SAP-BTP-NorthwindApp/blob/main/Create%20a%20Cloud%20Foundry%20Space%20named%20dev.png)
+## 2- Subscribed Services
+### This screenshot shows the successful subscription to the required SAP services, including Business Application Studio and Destination Service, which are required to develop and deploy SAP Fiori applications.
+![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/Subscribed%20Services.png)
+## 3-Northwind Destination Setup
+### This screenshot shows the destination configuration created to connect the SAP Fiori application to the Northwind OData service. The connection was successfully configured using the HTTP protocol and no authentication.
+![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/Destination%20Configuration.png)
+## 4-SAP Business Application Studio Dev Space
+### This screenshot shows the SAP Fiori Dev Space created in SAP Business Application Studio, which is used as the development environment for building SAP Fiori applications.
+![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20Business%20Application%20Studio%20Dev%20Space.png)
+## 5-SAP Fiori Application Generator
+### This screenshot shows the SAP Fiori Application Generator wizard used to create a new Fiori application connected to the Northwind OData service.
+![Model]()
+
