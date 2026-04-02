@@ -1,43 +1,80 @@
 # Project Title
 ## SAP BTP Northwind Fiori Application
-# Project Overview
-## This project was developed as part of the Pioneer Path Technical Assessment.
-## The objective of this project is to create a SAP Fiori application using SAP Business Technology Platform and connect it to an external OData service
-## The application retrieves product data from the Northwind OData service and displays it using a Fiori List Report interface.
-# Objectives
-#### -Create SAP BTP Trial Account
-#### -Configure Destination Service
-#### -Connect to Northwind OData Service
-#### -Build SAP Fiori Application
-#### -Deploy and Run Application
-# Technologies Used
-### -SAP Business Technology Platform (BTP)
-### -SAP Business Application Studio
-### -SAP Fiori Elements
-### -OData Service
-### -Northwind Database
-### -GitHub
-# Project Steps
-## 1- SAP BTP Setup
-### This screenshot shows the SAP Business Technology Platform cockpit after creating the trial account. The subaccount and Cloud Foundry environment were successfully created and configured for development.
+
+## Description
+This project is a SAP Fiori application developed using SAP Business Technology Platform (BTP).  
+It connects to the Northwind OData service to retrieve product data and display it using a Fiori List Report interface.
+
+---
+
+## Architecture Overview
+The application is built using SAP Business Application Studio and deployed on Cloud Foundry within SAP BTP.  
+The Destination service is used to connect the application to the external Northwind OData service.  
+Cloud Foundry hosts and runs the application, while the destination handles secure communication between the app and the external service.
+
+---
+
+## Setup Instructions
+1. Create an SAP BTP Trial Account  
+2. Create a Subaccount and enable Cloud Foundry environment  
+3. Create a Cloud Foundry space (e.g., dev)  
+4. Subscribe to required services:
+   - Business Application Studio  
+   - Destination Service  
+5. Configure a destination to connect to the Northwind OData service  
+6. Open SAP Business Application Studio and create a Fiori Dev Space  
+7. Use SAP Fiori Application Generator to create a new app  
+8. Connect the app to the Northwind OData service  
+9. Run and test the application  
+
+---
+
+## OData Entity Used
+The **Products** entity set was used from the Northwind OData service.  
+It was selected because it provides structured product data such as name, price, and category, which is ideal for displaying in a List Report interface.
+
+---
+
+## Challenges Faced
+One of the main challenges was configuring the destination correctly to connect to the Northwind OData service.  
+Initially, the application could not retrieve data due to incorrect configuration.  
+This issue was resolved by verifying the destination URL and ensuring the correct connection type and settings were applied.
+
+---
+
+## Bonus Tasks Completed
+No bonus tasks were completed.
+
+---
+
+## Deployed Application URL
+Not available.
+
+---
+
+## Screenshots
+
+### SAP BTP Setup
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20BTP%20Global%20Account.png)
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/Create%20a%20Cloud%20Foundry%20Space%20named%20dev.png)
-## 2- Subscribed Services
-### This screenshot shows the successful subscription to the required SAP services, including Business Application Studio and Destination Service, which are required to develop and deploy SAP Fiori applications.
+
+### Subscribed Services
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/Subscribed%20Services.png)
-## 3-Northwind Destination Setup
-### This screenshot shows the destination configuration created to connect the SAP Fiori application to the Northwind OData service. The connection was successfully configured using the HTTP protocol and no authentication.
+
+### Destination Configuration
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/Destination%20Configuration.png)
-## 4-SAP Business Application Studio Dev Space
-### This screenshot shows the SAP Fiori Dev Space created in SAP Business Application Studio, which is used as the development environment for building SAP Fiori applications.
+
+### SAP Business Application Studio
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20Business%20Application%20Studio%20Dev%20Space.png)
-## 5-SAP Fiori Application Generator
-### This screenshot shows the SAP Fiori Application Generator wizard used to create a new Fiori application connected to the Northwind OData service.
+
+### Fiori Application Generator
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20Fiori%20Application%20Generator.png)
-## 6-SAP Fiori Application Running
-### This screenshot shows the SAP Fiori application running successfully and displaying product data retrieved from the Northwind OData service.
+
+### Running Application
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20Fiori%20Application%20Running.png)
 
-# Author
-#### Youssef Mohammed
-#### Software Engineer
+---
+
+## Author
+Youssef Mohammed  
+Software Engineer
