@@ -20,7 +20,7 @@
 # Project Steps
 ## 1- SAP BTP Setup
 ### This screenshot shows the SAP Business Technology Platform cockpit after creating the trial account. The subaccount and Cloud Foundry environment were successfully created and configured for development.
-![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20BTP%20Global%20Account.png)
+![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20BTP%20Global%20Account.png)/
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-NorthwindApp/blob/main/Create%20a%20Cloud%20Foundry%20Space%20named%20dev.png)
 ## 2- Subscribed Services
 ### This screenshot shows the successful subscription to the required SAP services, including Business Application Studio and Destination Service, which are required to develop and deploy SAP Fiori applications.
@@ -33,5 +33,11 @@
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20Business%20Application%20Studio%20Dev%20Space.png)
 ## 5-SAP Fiori Application Generator
 ### This screenshot shows the SAP Fiori Application Generator wizard used to create a new Fiori application connected to the Northwind OData service.
-![Model]()
+![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20Fiori%20Application%20Generator.png)
+## 6-SAP Fiori Application Running
+### This screenshot shows the SAP Fiori application running successfully and displaying product data retrieved from the Northwind OData service.
+![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20Fiori%20Application%20Running.png)
 
+# Author
+#### Youssef Ahmed Mohammed
+#### Software Engineer
