@@ -20,8 +20,8 @@
 # Project Steps
 ## 1- SAP BTP Setup
 ### This screenshot shows the SAP Business Technology Platform cockpit after creating the trial account. The subaccount and Cloud Foundry environment were successfully created and configured for development.
-![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20BTP%20Global%20Account.png)/
-![Model](https://github.com/youssefmohamed155/SAP-BTP-NorthwindApp/blob/main/Create%20a%20Cloud%20Foundry%20Space%20named%20dev.png)
+![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20BTP%20Global%20Account.png)
+![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/Create%20a%20Cloud%20Foundry%20Space%20named%20dev.png)
 ## 2- Subscribed Services
 ### This screenshot shows the successful subscription to the required SAP services, including Business Application Studio and Destination Service, which are required to develop and deploy SAP Fiori applications.
 ![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/Subscribed%20Services.png)
