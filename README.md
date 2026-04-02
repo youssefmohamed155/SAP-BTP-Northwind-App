@@ -6,7 +6,7 @@
 ## The application retrieves product data from the Northwind OData service and displays it using a Fiori List Report interface.
 # Objectives
 ### -Create SAP BTP Trial Account
-### -Configure Destination Service
+    -Configure Destination Service
 ### -Connect to Northwind OData Service
 ### -Build SAP Fiori Application
 ### -Deploy and Run Application
