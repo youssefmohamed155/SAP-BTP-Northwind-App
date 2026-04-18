@@ -41,16 +41,6 @@ SAP Fiori application displaying Northwind products using OData service
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
-## Screenshots
-
-### SAP BTP Setup
-![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/SAP%20BTP%20Global%20Account.png)
-![Model](https://github.com/youssefmohamed155/SAP-BTP-Northwind-App/blob/main/Create%20a%20Cloud%20Foundry%20Space%20named%20dev.png)
-## Description
-This project is a SAP Fiori application developed using SAP Business Technology Platform (BTP).  
-It connects to the Northwind OData service to retrieve product data and display it using a Fiori List Report interface.
-
-
 ## Architecture Overview
 The application is built using SAP Business Application Studio and deployed on Cloud Foundry within SAP BTP.  
 The Destination service is used to connect the application to the external Northwind OData service.  
