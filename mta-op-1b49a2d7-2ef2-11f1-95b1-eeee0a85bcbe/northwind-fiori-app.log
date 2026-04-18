@@ -1,0 +1,664 @@
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:14:44.845786] Added process: "web" (STDOUT, API)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:14:44.853963] Created app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:14:44.955216] Updating process: "web" (STDOUT, API)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:14:45.018628] Scaling process: "web" (STDOUT, API)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:14:59.081295] Uploading app package for app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:14:59.349832] Updated app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:28.185827] Creating build for app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:28.903082] Downloading zero_trust_sidecar_buildpack_1_15... (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:28.903083] Downloading php_buildpack... (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:28.903132] Downloading nginx_buildpack... (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:28.903153] Downloading java_buildpack... (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:28.903191] Downloading go_buildpack... (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:28.944879] Downloaded php_buildpack (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:28.944910] Downloading sap_java_buildpack_jakarta_2_53... (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:30.092222] Downloaded zero_trust_sidecar_buildpack_1_15 (31.1M) (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:30.092263] Downloading binary_buildpack... (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:30.544060] Downloaded binary_buildpack (6.6M) (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:30.544101] Downloading sap_java_buildpack_jakarta... (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:30.804795] Downloaded nginx_buildpack (55.5M) (STDOUT, STG)#
+#2026 04 03 00:15:38.066#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15888#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:30.804835] Downloading sap_java_buildpack_jakarta_2_55... (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:38.746642] Downloaded sap_java_buildpack_jakarta (356.6M) (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:38.746711] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:39.095447] Downloaded go_buildpack (232.1M) (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:39.095491] Downloading zero_trust_sidecar_buildpack_1_14... (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:39.830591] Downloaded sap_java_buildpack_jakarta_2_53 (356.4M) (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:39.830632] Downloading sap_java_buildpack_jakarta_2_51... (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:40.394937] Downloaded sap_java_buildpack_jakarta_2_55 (356.6M) (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:40.394978] Downloading zero_trust_sidecar_buildpack_1_13... (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:40.445893] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:40.445923] Downloading python_buildpack... (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:41.721534] Downloaded zero_trust_sidecar_buildpack_1_13 (31.1M) (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:41.919393] Downloaded zero_trust_sidecar_buildpack_1_14 (31.1M) (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:41.919432] Downloading staticfile_buildpack... (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:41.933244] Downloading zero_trust_sidecar_buildpack... (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:42.389703] Downloaded staticfile_buildpack (13.2M) (STDOUT, STG)#
+#2026 04 03 00:15:48.103#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15895#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:43.156121] Downloaded zero_trust_sidecar_buildpack (31.1M) (STDOUT, STG)#
+#2026 04 03 00:15:58.089#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15904#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:49.629665] Downloaded sap_java_buildpack_jakarta_2_51 (356.4M) (STDOUT, STG)#
+#2026 04 03 00:15:58.089#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15904#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:56.087087] Downloaded java_buildpack (902M) (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:59.699018] Downloaded python_buildpack (756.1M) (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:15:59.699124] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance 2814f6aa-2a64-4a4c-99a6-78ee187862ed (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:00.069710] Security group rules were updated (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:00.131074] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance 2814f6aa-2a64-4a4c-99a6-78ee187862ed (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:00.801893] Downloading app package... (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:05.068890] Downloaded app package (53.5M) (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:06.204332] -----> Nodejs Buildpack version 1.8.44 (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:07.508076] -----> Bootstrapping python (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:07.508099] -----> Installing python 3.11.14 (STDOUT, STG)#
+#2026 04 03 00:16:08.121#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15913#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:07.508293] Copy [/tmp/buildpacks/978cee5ec9c58000/dependencies/b5e0345ae0ae1932e7d56fffaa49a487/python_3.11.14_linux_x64_cflinuxfs4_66f53248.tgz] (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:10.572339] -----> Installing binaries (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:10.572371] engines.node (package.json): unspecified (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:10.572377] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:10.572414] [31;1m**WARNING**[0m Node version not specified in package.json or .nvmrc. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:10.572420] -----> Installing node 22.22.0 (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:10.572483] Copy [/tmp/buildpacks/978cee5ec9c58000/dependencies/65c50d3a8311e7796847437aebc5aebd/node_22.22.0_linux_x64_cflinuxfs4_a73ffe6d.tgz] (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.366623] Using default npm version: 10.9.4 (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.366660] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.366685] Copy [/tmp/buildpacks/978cee5ec9c58000/dependencies/e3a39aedd1236924d69cc2d0637a8ed2/yarn_1.22.22_linux_noarch_any-stack_4911d0a6.tgz] (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.610793] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.610824] -----> Creating runtime environment (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.612464] NODE_ENV=production (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.612479] NODE_HOME=/tmp/contents3724951504/deps/0/node (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.612482] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.612485] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.612487] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.612490] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.612499] -----> Building dependencies (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.612501] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:12.612589] Rebuilding any native modules (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:13.487409] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:13.488258] npm notice (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:13.488278] npm notice New major version of npm available! 10.9.4 -> 11.12.1 (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:13.488285] npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.12.1 (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:13.488287] npm notice To update run: npm install -g npm@11.12.1 (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:13.488288] npm notice (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:13.543586] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:15.862022] up to date in 2s (STDOUT, STG)#
+#2026 04 03 00:16:18.134#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15923#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:16.312992] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:23.482069] Exit status 0 (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:23.482124] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:23.482169] Uploading droplet... (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:23.482199] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:23.498319] Uploaded build artifacts cache (215B) (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:24.049602] Creating droplet for app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:27.115769] Uploaded droplet (57.1M) (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:27.130005] Uploading complete (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:27.402715] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 2814f6aa-2a64-4a4c-99a6-78ee187862ed (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:27.402758] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 2814f6aa-2a64-4a4c-99a6-78ee187862ed (STDOUT, STG)#
+#2026 04 03 00:16:28.357#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15926#
+[PollStageAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:27.457816] Staging complete for build 2814f6aa-2a64-4a4c-99a6-78ee187862ed (STDOUT, API)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:28.436264] Updated app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e ({:droplet_guid=>"07ca4417-9905-4fc2-9612-00136d08fa3d"}) (STDOUT, API)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:28.633860] Creating revision for app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:28.672158] Starting app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:28.870062] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 2b0b1f9a-e48b-4c5d-4183-471f (STDOUT, CELL)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:29.248161] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:29.298182] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 2b0b1f9a-e48b-4c5d-4183-471f (STDOUT, CELL)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:29.684207] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 2814f6aa-2a64-4a4c-99a6-78ee187862ed (STDOUT, STG)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:29.804115] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:32.471426] Downloaded droplet (57.1M) (STDOUT, CELL)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:32.471521] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:32.532177] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:32.669342] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:32.976652] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:32.976686] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:32.980991] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:16:38.237#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15936#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:33.039733] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:38.930049] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 2b0b1f9a-e48b-4c5d-4183-471f (STDOUT, CELL)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:38.930088] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 2b0b1f9a-e48b-4c5d-4183-471f (STDOUT, CELL)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:38.937611] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:38.954732] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"2b0b1f9a-e48b-4c5d-4183-471f", "index"=>0, "cell_id"=>"d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>1, "crash_timestamp"=>1775175398912866532, "version"=>"6e8cfb33-095d-4b48-b969-29c2cf0964ce"} (STDOUT, API)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:39.036727] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:39.037466] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance fd51d3c9-f33c-4c73-44e1-7857 (STDOUT, CELL)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:39.385908] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:39.436290] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance fd51d3c9-f33c-4c73-44e1-7857 (STDOUT, CELL)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:39.904674] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:40.134701] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 2b0b1f9a-e48b-4c5d-4183-471f (STDOUT, CELL)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:42.878231] Downloaded droplet (57.1M) (STDOUT, CELL)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:42.878425] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:42.935886] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:43.077248] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:43.390297] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:43.390321] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:43.394297] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:16:48.171#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15941#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:43.453340] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:49.530772] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance fd51d3c9-f33c-4c73-44e1-7857 (STDOUT, CELL)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:49.530826] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance fd51d3c9-f33c-4c73-44e1-7857 (STDOUT, CELL)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:49.536391] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:49.550612] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"fd51d3c9-f33c-4c73-44e1-7857", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>2, "crash_timestamp"=>1775175409513971673, "version"=>"6e8cfb33-095d-4b48-b969-29c2cf0964ce"} (STDOUT, API)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:49.603644] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:49.637671] Cell 684caff8-89cd-492b-be01-b3d0835f1763 creating container for instance b4698435-0f5d-4a8f-62f6-82ef (STDOUT, CELL)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:49.992448] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:50.054509] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully created container for instance b4698435-0f5d-4a8f-62f6-82ef (STDOUT, CELL)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:50.501874] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:50.698976] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance fd51d3c9-f33c-4c73-44e1-7857 (STDOUT, CELL)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:53.275881] Downloaded droplet (57.1M) (STDOUT, CELL)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:53.276051] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:53.334020] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:53.473814] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:53.782989] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:53.783018] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:53.787181] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:16:58.233#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15948#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:53.847789] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:08.187#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15954#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.676014] Cell 684caff8-89cd-492b-be01-b3d0835f1763 stopping instance b4698435-0f5d-4a8f-62f6-82ef (STDOUT, CELL)#
+#2026 04 03 00:17:08.187#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15954#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.676066] Cell 684caff8-89cd-492b-be01-b3d0835f1763 destroying container for instance b4698435-0f5d-4a8f-62f6-82ef (STDOUT, CELL)#
+#2026 04 03 00:17:08.187#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15954#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.694738] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:17:08.187#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15954#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.707641] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"b4698435-0f5d-4a8f-62f6-82ef", "index"=>0, "cell_id"=>"684caff8-89cd-492b-be01-b3d0835f1763", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>3, "crash_timestamp"=>1775175419672335271, "version"=>"6e8cfb33-095d-4b48-b969-29c2cf0964ce"} (STDOUT, API)#
+#2026 04 03 00:17:08.187#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15954#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.770073] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:17:08.187#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15954#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:01.046352] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully destroyed container for instance b4698435-0f5d-4a8f-62f6-82ef (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.676014] Cell 684caff8-89cd-492b-be01-b3d0835f1763 stopping instance b4698435-0f5d-4a8f-62f6-82ef (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.676066] Cell 684caff8-89cd-492b-be01-b3d0835f1763 destroying container for instance b4698435-0f5d-4a8f-62f6-82ef (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.694738] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.707641] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"b4698435-0f5d-4a8f-62f6-82ef", "index"=>0, "cell_id"=>"684caff8-89cd-492b-be01-b3d0835f1763", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>3, "crash_timestamp"=>1775175419672335271, "version"=>"6e8cfb33-095d-4b48-b969-29c2cf0964ce"} (STDOUT, API)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:16:59.770073] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:01.046352] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully destroyed container for instance b4698435-0f5d-4a8f-62f6-82ef (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:11.357766] Stopping app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:11.535362] Starting app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:11.723858] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance f3963979-556c-43e1-5edf-1f0c (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:12.068982] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:12.120757] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance f3963979-556c-43e1-5edf-1f0c (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:12.845244] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:15.809131] Downloaded droplet (57.1M) (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:15.809306] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:15.870164] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:16.012794] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:16.321057] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:16.321089] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:16.325451] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:17:18.337#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15958#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:16.384233] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:22.319018] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance f3963979-556c-43e1-5edf-1f0c (STDOUT, CELL)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:22.319075] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance f3963979-556c-43e1-5edf-1f0c (STDOUT, CELL)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:22.326241] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:22.339603] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"f3963979-556c-43e1-5edf-1f0c", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>1, "crash_timestamp"=>1775175442302087511, "version"=>"8fe65949-fbe2-4355-ad98-55a5d03c2bfc"} (STDOUT, API)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:22.402556] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:22.419372] Cell 684caff8-89cd-492b-be01-b3d0835f1763 creating container for instance 242447e8-d2d6-4bd9-54a0-b10f (STDOUT, CELL)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:22.776805] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:22.834456] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully created container for instance 242447e8-d2d6-4bd9-54a0-b10f (STDOUT, CELL)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:23.154783] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:23.467329] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance f3963979-556c-43e1-5edf-1f0c (STDOUT, CELL)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:26.021626] Downloaded droplet (57.1M) (STDOUT, CELL)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:26.021760] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:26.082376] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:26.224165] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:26.542616] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:26.542641] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:26.546796] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:17:28.275#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15964#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:26.606534] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:32.545111] Cell 684caff8-89cd-492b-be01-b3d0835f1763 stopping instance 242447e8-d2d6-4bd9-54a0-b10f (STDOUT, CELL)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:32.545148] Cell 684caff8-89cd-492b-be01-b3d0835f1763 destroying container for instance 242447e8-d2d6-4bd9-54a0-b10f (STDOUT, CELL)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:32.552273] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:32.568107] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"242447e8-d2d6-4bd9-54a0-b10f", "index"=>0, "cell_id"=>"684caff8-89cd-492b-be01-b3d0835f1763", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>2, "crash_timestamp"=>1775175452527578249, "version"=>"8fe65949-fbe2-4355-ad98-55a5d03c2bfc"} (STDOUT, API)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:32.629046] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:32.659910] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance d240bb62-eca3-43e8-7ee8-34cf (STDOUT, CELL)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:32.997559] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:33.043758] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance d240bb62-eca3-43e8-7ee8-34cf (STDOUT, CELL)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:33.502099] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:33.723389] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully destroyed container for instance 242447e8-d2d6-4bd9-54a0-b10f (STDOUT, CELL)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:34.223143] Downloaded droplet (STDOUT, CELL)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:34.223367] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:34.280104] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:34.419989] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:34.725553] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:34.725578] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:34.730023] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:17:38.262#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15966#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:34.787894] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:48.229#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15968#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.366404] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance d240bb62-eca3-43e8-7ee8-34cf (STDOUT, CELL)#
+#2026 04 03 00:17:48.229#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15968#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.366473] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance d240bb62-eca3-43e8-7ee8-34cf (STDOUT, CELL)#
+#2026 04 03 00:17:48.229#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15968#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.384147] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:17:48.229#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15968#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.396074] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"d240bb62-eca3-43e8-7ee8-34cf", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>3, "crash_timestamp"=>1775175461362758739, "version"=>"8fe65949-fbe2-4355-ad98-55a5d03c2bfc"} (STDOUT, API)#
+#2026 04 03 00:17:48.229#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15968#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.458185] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:17:48.229#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15968#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:42.527783] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance d240bb62-eca3-43e8-7ee8-34cf (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.366404] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance d240bb62-eca3-43e8-7ee8-34cf (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.366473] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance d240bb62-eca3-43e8-7ee8-34cf (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.384147] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.396074] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"d240bb62-eca3-43e8-7ee8-34cf", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>3, "crash_timestamp"=>1775175461362758739, "version"=>"8fe65949-fbe2-4355-ad98-55a5d03c2bfc"} (STDOUT, API)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:41.458185] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:42.527783] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance d240bb62-eca3-43e8-7ee8-34cf (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:50.811246] Stopping app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:50.989490] Starting app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:51.181595] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance d7de0dd2-e876-44e6-5bd3-b2c7 (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:51.509506] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:51.572221] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance d7de0dd2-e876-44e6-5bd3-b2c7 (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:51.876127] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:54.750596] Downloaded droplet (57.1M) (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:54.750758] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:54.812093] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:54.958876] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:55.272434] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:55.272461] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:55.276787] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:17:58.358#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15970#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:17:55.336285] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:01.406658] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance d7de0dd2-e876-44e6-5bd3-b2c7 (STDOUT, CELL)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:01.406708] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance d7de0dd2-e876-44e6-5bd3-b2c7 (STDOUT, CELL)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:01.411974] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:01.425504] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"d7de0dd2-e876-44e6-5bd3-b2c7", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>1, "crash_timestamp"=>1775175481390423973, "version"=>"526d5b17-5d9b-4da7-b2d5-2cf5eee05c26"} (STDOUT, API)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:01.495164] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:01.517754] Cell 684caff8-89cd-492b-be01-b3d0835f1763 creating container for instance f019caa4-8aa9-4757-6c94-5de0 (STDOUT, CELL)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:01.852459] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:01.915489] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully created container for instance f019caa4-8aa9-4757-6c94-5de0 (STDOUT, CELL)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:02.423263] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:02.629518] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance d7de0dd2-e876-44e6-5bd3-b2c7 (STDOUT, CELL)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:06.386905] Downloaded droplet (57.1M) (STDOUT, CELL)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:06.387029] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:06.450004] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:06.589878] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:06.932906] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:06.932931] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:06.937071] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:18:08.228#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15972#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:07.006131] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:12.793512] Cell 684caff8-89cd-492b-be01-b3d0835f1763 stopping instance f019caa4-8aa9-4757-6c94-5de0 (STDOUT, CELL)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:12.793548] Cell 684caff8-89cd-492b-be01-b3d0835f1763 destroying container for instance f019caa4-8aa9-4757-6c94-5de0 (STDOUT, CELL)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:12.799918] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:12.813781] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"f019caa4-8aa9-4757-6c94-5de0", "index"=>0, "cell_id"=>"684caff8-89cd-492b-be01-b3d0835f1763", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>2, "crash_timestamp"=>1775175492775825809, "version"=>"526d5b17-5d9b-4da7-b2d5-2cf5eee05c26"} (STDOUT, API)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:12.886509] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:12.901152] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance f8e8ce92-fff6-424e-5040-ac46 (STDOUT, CELL)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:13.537607] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:13.596733] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance f8e8ce92-fff6-424e-5040-ac46 (STDOUT, CELL)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:13.884743] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:14.039310] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully destroyed container for instance f019caa4-8aa9-4757-6c94-5de0 (STDOUT, CELL)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:14.632341] Downloaded droplet (STDOUT, CELL)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:14.632452] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:14.690109] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:14.830736] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:15.143258] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:15.143276] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:15.147323] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:18:18.279#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15975#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:15.203460] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:28.274#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15979#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.139879] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance f8e8ce92-fff6-424e-5040-ac46 (STDOUT, CELL)#
+#2026 04 03 00:18:28.274#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15979#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.139934] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance f8e8ce92-fff6-424e-5040-ac46 (STDOUT, CELL)#
+#2026 04 03 00:18:28.274#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15979#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.157211] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:18:28.274#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15979#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.169676] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"f8e8ce92-fff6-424e-5040-ac46", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>3, "crash_timestamp"=>1775175501135795801, "version"=>"526d5b17-5d9b-4da7-b2d5-2cf5eee05c26"} (STDOUT, API)#
+#2026 04 03 00:18:28.274#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15979#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.231978] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:18:28.274#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15979#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:22.426433] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance f8e8ce92-fff6-424e-5040-ac46 (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.139879] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance f8e8ce92-fff6-424e-5040-ac46 (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.139934] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance f8e8ce92-fff6-424e-5040-ac46 (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.157211] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.169676] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"f8e8ce92-fff6-424e-5040-ac46", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>3, "crash_timestamp"=>1775175501135795801, "version"=>"526d5b17-5d9b-4da7-b2d5-2cf5eee05c26"} (STDOUT, API)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:21.231978] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:22.426433] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance f8e8ce92-fff6-424e-5040-ac46 (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:30.255514] Stopping app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:30.430704] Starting app with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e (STDOUT, API)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:30.675162] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance 7995acd4-5bc6-4d52-76d7-e468 (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:30.989918] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:31.043246] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance 7995acd4-5bc6-4d52-76d7-e468 (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:31.570384] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:34.279054] Downloaded droplet (57.1M) (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:34.279202] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:34.338512] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:34.474898] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:34.786922] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:34.786943] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:34.791377] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:18:38.423#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7007#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:34.850409] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:41.040699] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 7995acd4-5bc6-4d52-76d7-e468 (STDOUT, CELL)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:41.040759] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 7995acd4-5bc6-4d52-76d7-e468 (STDOUT, CELL)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:41.046676] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:41.061021] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"7995acd4-5bc6-4d52-76d7-e468", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>1, "crash_timestamp"=>1775175521022985639, "version"=>"dff841ba-6c04-4c79-b789-78c0f9deec73"} (STDOUT, API)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:41.124305] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:41.274189] Cell 684caff8-89cd-492b-be01-b3d0835f1763 creating container for instance 723f0392-8a2d-4d7a-41bb-890d (STDOUT, CELL)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:41.644467] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:41.703598] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully created container for instance 723f0392-8a2d-4d7a-41bb-890d (STDOUT, CELL)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:41.975395] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:42.283019] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 7995acd4-5bc6-4d52-76d7-e468 (STDOUT, CELL)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:44.618311] Downloaded droplet (57.1M) (STDOUT, CELL)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:44.618444] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:44.679484] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:44.821023] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:45.142964] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:45.142988] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:45.147218] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:18:48.394#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15989#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:45.208035] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:51.055819] Cell 684caff8-89cd-492b-be01-b3d0835f1763 stopping instance 723f0392-8a2d-4d7a-41bb-890d (STDOUT, CELL)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:51.055892] Cell 684caff8-89cd-492b-be01-b3d0835f1763 destroying container for instance 723f0392-8a2d-4d7a-41bb-890d (STDOUT, CELL)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:51.061945] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:51.076811] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"723f0392-8a2d-4d7a-41bb-890d", "index"=>0, "cell_id"=>"684caff8-89cd-492b-be01-b3d0835f1763", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>2, "crash_timestamp"=>1775175531038815150, "version"=>"dff841ba-6c04-4c79-b789-78c0f9deec73"} (STDOUT, API)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:51.146002] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:51.161473] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance 32fe0ecf-a39d-44d1-7381-5e28 (STDOUT, CELL)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:51.501990] Security group rules were updated (STDOUT, CELL)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:51.567671] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance 32fe0ecf-a39d-44d1-7381-5e28 (STDOUT, CELL)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:51.809413] Downloading droplet... (STDOUT, CELL)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:52.245907] Cell 684caff8-89cd-492b-be01-b3d0835f1763 successfully destroyed container for instance 723f0392-8a2d-4d7a-41bb-890d (STDOUT, CELL)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:52.556977] Downloaded droplet (STDOUT, CELL)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:52.557151] Starting health monitoring of container (STDOUT, CELL)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:52.614833] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:52.761575] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:53.068001] > northwind-fiori-app@0.0.1 start (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:53.068031] > fiori run --open "test/flp.html#app-preview" (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:53.072354] sh: 1: fiori: not found (STDERR, APP/PROC/WEB)#
+#2026 04 03 00:18:58.330#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-15994#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:53.131496] Exit status 127 (STDOUT, APP/PROC/WEB)#
+#2026 04 03 00:19:08.404#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7009#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:59.343068] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 32fe0ecf-a39d-44d1-7381-5e28 (STDOUT, CELL)#
+#2026 04 03 00:19:08.404#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7009#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:59.343096] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 32fe0ecf-a39d-44d1-7381-5e28 (STDOUT, CELL)#
+#2026 04 03 00:19:08.404#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7009#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:59.365190] Process has crashed with type: "web" (STDOUT, API)#
+#2026 04 03 00:19:08.404#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7009#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:59.380889] App instance exited with guid 24054a82-3d8c-4b35-b5f1-8629d0bb909e payload: {"instance"=>"32fe0ecf-a39d-44d1-7381-5e28", "index"=>0, "cell_id"=>"77283d80-dfa7-40ba-ba4e-265aef112085", "reason"=>"CRASHED", "exit_description"=>"APP/PROC/WEB: Exited with status 127", "crash_count"=>3, "crash_timestamp"=>1775175539339204123, "version"=>"dff841ba-6c04-4c79-b789-78c0f9deec73"} (STDOUT, API)#
+#2026 04 03 00:19:08.404#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7009#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:18:59.423562] Exit status 137 (STDOUT, PROXY)#
+#2026 04 03 00:19:08.404#Z#DEBUG#1b49a2d7-2ef2-11f1-95b1-eeee0a85bcbe.northwind-fiori-app#flowable-async-job-executor-thread-7009#
+[PollStartAppStatusExecution] 24054a82-3d8c-4b35-b5f1-8629d0bb909e [2026-04-03T00:19:00.565441] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 32fe0ecf-a39d-44d1-7381-5e28 (STDOUT, CELL)#
