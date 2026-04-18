@@ -1,0 +1,23 @@
+ID: northwind-fiori-app
+_schema-version: 3.1
+version: 1.0.0
+
+modules:
+  - name: northwind-fiori-app
+    type: html5
+    path: .
+    build-parameters:
+      builder: npm
+      build-result: dist
+    parameters:
+      disk-quota: 256M
+      memory: 256M
+    requires:
+      - name: northwind_html_repo_runtime
+
+resources:
+  - name: northwind_html_repo_runtime
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service-plan: app-runtime
+      
